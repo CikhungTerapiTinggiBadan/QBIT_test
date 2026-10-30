@@ -1,0 +1,37 @@
+{
+    "Guns": [
+        {
+            "title": "AK",
+            "desc": "One shot headshot. Better than CT's",
+            "img": "https://drive.google.com/file/d/1IJ-QDUE4diZvxq-FqVPN1PBTpmOZnjfr/view?usp=drive_link",
+            "link": "https://www.youtube.com/watch?v=2qBlE2-WL60"
+        },
+        {
+            "title": "AWP",
+            "desc": "One shot everywhere. constant DROP ME AWP!!! [in russian accent]",
+            "img": "https://drive.google.com/file/d/1gPIzBZ7up2cs5jlui7fJJNg3ueoqkctp/view?usp=drive_link",
+            "link": "https://www.youtube.com/watch?v=2qBlE2-WL60"
+        },
+        {
+            "title": "USP-S",
+            "desc": "Not one shot headshot, but i like this gun. Only purchasable by CT",
+            "img": "https://drive.google.com/file/d/10M9OQ9eB5r-DPp8rx3ssH393kihYoDDR/view?usp=drive_link",
+            "link": "https://www.youtube.com/watch?v=2qBlE2-WL60"
+        }
+    ],
+    "Knieves": [
+        {
+            "title": "Stiletto",
+            "desc": "Ugly knive. Dont like it",
+            "img": "https://drive.google.com/file/d/14lKjXAFO-jxW29OiE9JjrpRKEa7ugj7X/view?usp=drive_link",
+            "link": "https://www.youtube.com/watch?v=2qBlE2-WL60"
+        },
+        {
+            "title": "Ursus",
+            "desc": "Decent looking, but still prefer butterfly.",
+            "img": "https://drive.google.com/file/d/1zH0-cI0uchjnQLwT8Zw3IrTiVAL6EcNx/view?usp=drive_link",
+            "link": "https://www.youtube.com/watch?v=2qBlE2-WL60"
+        }
+    ],
+    "Bombs": []
+}
